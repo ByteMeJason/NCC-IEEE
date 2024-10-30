@@ -1,2 +1,2 @@
 print("Some Feature")
-print("merge conflict")
+print("f_one")
